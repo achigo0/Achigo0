@@ -27,7 +27,9 @@ I studied Electrical and Electronics Engineering and enjoy turning ideas into re
 
 ---
 
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Achigo0&color=blue)  
+## 📈 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=Achigo0&color=blue)  
+
 ![Achigo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achigo0&show_icons=true&theme=radical)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achigo0&layout=compact&theme=radical)
+<br>
