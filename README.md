@@ -14,7 +14,7 @@ I studied Electrical and Electronics Engineering and enjoy turning ideas into re
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, PHP, HTML, C#  
 - **Frameworks & Libraries:** Tkinter, React, etc.  
-- **Electronics & IoT:** Microcontrollers, sensors, automation  
+- **Electronics & IoT:** Microcontrollers, Arduino, sensors, automation  
 - **Tools:** Git, GitHub, VSCode  
 
 ---
