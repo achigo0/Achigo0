@@ -3,6 +3,8 @@
 I'm a passionate developer and IoT enthusiast with a strong background in **electronics, HTML, and PHP**.  
 I enjoy turning ideas into real-world systems, blending software, hardware, and creativity.
 
+**Most of my work cannot be made public due to privacy regulations**
+
 - 🎓 **Alumnus:** Istanbul University  
 - 🌍 **Location:** Istanbul, Turkey  
 
