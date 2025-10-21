@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Achigo0
 
-I'm a passionate developer and IoT enthusiast with a strong background in **electronics, HTML, and PHP**.  
-I enjoy turning ideas into real-world systems, blending software, hardware, and creativity.
+I'm a passionate developer and IoT enthusiast with a strong background in electronics, HTML, and PHP.  
+I studied Electrical and Electronics Engineering and enjoy turning ideas into real-world systems, blending software, hardware, and creativity.
+
 
 **Most of my work cannot be made public due to privacy regulations**
 
