@@ -5,7 +5,7 @@ I enjoy turning ideas into real-world systems, blending software, hardware, and 
 
 **Most of my work cannot be made public due to privacy regulations**
 
-- 🎓 **Alumnus:** Istanbul University  
+- 🎓 **Alumnus:** Istanbul University | Cerrahpasa
 - 🌍 **Location:** Istanbul, Turkey  
 
 ---
